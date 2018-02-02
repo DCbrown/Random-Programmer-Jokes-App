@@ -1,0 +1,11 @@
+#answer{
+	visibility: hidden;
+}
+
+#question{
+	visibility: hidden;
+}
+
+.jumbotron{
+	margin: 30px 0 0 0;
+}	
